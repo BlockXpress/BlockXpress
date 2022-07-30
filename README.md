@@ -16,3 +16,5 @@ Website: https://theblockxpress.com/
 Twitter: https://twitter.com/blockxpress
 
 ![Copy of Verified Seal](https://user-images.githubusercontent.com/109474535/180249378-2a57beb4-615e-41d9-a98d-645540263289.png)
+
+![Copy of Certification](https://github.com/BlockXpress/BlockXpress/blob/fa9be524c2e91aa3e3ab2149de38306ef4c73af1/Media/SAFU%20Certification.png)
