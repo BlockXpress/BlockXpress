@@ -4,5 +4,9 @@ BlockXpress mission is to provide a one-stop crypto-native e-commerce hub. As we
 Contract Adress: https://bscscan.com/token/0x2a6788bf2354ebc4940656d4721afa0ad0f25f6b
 
 KYC: https://www.assuredefi.io/projects/blockxpress/
+
 Audit: https://app.solidproof.io/projects/blockxpress
+
+Website: https://theblockxpress.com/
+
 ![Copy of Verified Seal](https://user-images.githubusercontent.com/109474535/180249378-2a57beb4-615e-41d9-a98d-645540263289.png)
