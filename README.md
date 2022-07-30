@@ -5,7 +5,7 @@ Contract Address: https://bscscan.com/token/0x2a6788bf2354ebc4940656d4721afa0ad0
 
 Whitepaper: https://theblockxpress.com/wp-content/uploads/2022/07/blockxpressWP.pdf
 
-SAFU Certificate:https://github.com/The-Matrix-Labs/SafuProjects/blob/85251661a150937cbdf68781653961cda1570f57/BlockXpress.pdf
+SAFU Certificate: https://github.com/The-Matrix-Labs/SafuProjects/blob/85251661a150937cbdf68781653961cda1570f57/BlockXpress.pdf
 
 KYC: https://www.assuredefi.io/projects/blockxpress/
 
